@@ -178,13 +178,13 @@ Under the Guidance of
 
 * Dr. S. Prabhanjan
 
-M.Tech, Ph.D  
+   M.Tech, Ph.D  
 
-Professor & Head  
+   Professor & Head  
 
-Department of Computer Science and Engineering  
+   Department of Computer Science and Engineering  
 
-Jyothy Institute of Technology, Bangalore
+   Jyothy Institute of Technology, Bangalore
 ---
 
 ## Team Members
