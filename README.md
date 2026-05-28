@@ -176,10 +176,14 @@ MongoDB Atlas is used as the cloud database service for storing and managing pat
 
 ### Under the Guidance of
 
-**Dr. S. Prabhanjan**  
+*Dr. S. Prabhanjan*
+
 M.Tech, Ph.D  
+
 Professor & Head  
+
 Department of Computer Science and Engineering  
+
 Jyothy Institute of Technology, Bangalore
 ---
 
