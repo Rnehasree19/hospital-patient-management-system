@@ -174,9 +174,9 @@ MongoDB Atlas is used as the cloud database service for storing and managing pat
 
 ## Developed as Part of DBMS (BCS403) Assignment
 
-### Under the Guidance of
+Under the Guidance of
 
-*Dr. S. Prabhanjan*
+#Dr. S. Prabhanjan
 
 M.Tech, Ph.D  
 
